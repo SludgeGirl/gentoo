@@ -57,6 +57,7 @@ DEPEND="${COMMON_DEPEND}
 "
 RDEPEND="${COMMON_DEPEND}
 	>=dev-qt/qtsvg-${QTMIN}:6
+	media-libs/openh264
 "
 BDEPEND="
 	>=dev-qt/qtwayland-${QTMIN}:6
